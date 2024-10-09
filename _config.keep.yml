@@ -9,10 +9,10 @@
 # ---------------------------------------------------------------------------------------
 base_info:
   # Theme primary color
-  primary_color: "#0066cc"
+  primary_color: "#22c55e"
 
   # Blog website title
-  title: ŠM
+  title: lines upon lines
 
   # Blog website author name
   author: Šarūnas Medeikis
@@ -21,7 +21,7 @@ base_info:
   avatar: https://media.licdn.com/dms/image/v2/C4D03AQEwxIzM2vAivw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1577908284591?e=1733961600&v=beta&t=K_-g6NAr0sVIHcQMI4x4NIXgl8t_3nHdPVRVe7iFsqU
 
   # Website LOGO, You can use local image path or image link
-  logo: /images/logo.svg
+  # logo: /images/logo.svg
 
   # Website favicon, You can use local image path or image link
   favicon: /images/logo.svg
@@ -59,10 +59,10 @@ first_screen:
 
   # First screen description
   # You can use the "||" to begin a newline, maximum is two lines.
-  description: Keep writing and Keep loving.
+  description: Keep going, keep growing.
 
   # If enable hitokoto, first screen description is different every time when you enter the website
-  hitokoto: true      # Option values: true | false
+  hitokoto: false      # Option values: true | false
 
 
 # ---------------------------------------------------------------------------------------
